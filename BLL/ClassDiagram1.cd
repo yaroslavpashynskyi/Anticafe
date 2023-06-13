@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.Services.Activities.List">
+    <Position X="3.75" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Activities.List.Query">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\List.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Activities.List.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\List.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Activities\List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Activities.Edit">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Activities.Edit.Command">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Edit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Activities.Edit.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Edit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Activities\Edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Activities.Details">
+    <Position X="9.75" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Activities.Details.Query">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Details.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Activities.Details.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Details.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Activities\Details.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Activities.Delete">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Activities.Delete.Command">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Delete.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Activities.Delete.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Delete.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Activities\Delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Activities.Create">
+    <Position X="12.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Activities.Create.Command">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Create.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Activities.Create.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Activities\Create.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Activities\Create.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Halls.Create">
+    <Position X="0.75" Y="5.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Halls.Create.Command">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Create.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Halls.Create.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Create.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Halls\Create.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Halls.Delete">
+    <Position X="3.75" Y="5.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Halls.Delete.Command">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Delete.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Halls.Delete.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Delete.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Halls\Delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Halls.Details">
+    <Position X="7" Y="5.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Halls.Details.Query">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Details.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Halls.Details.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Details.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Halls\Details.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Halls.Edit">
+    <Position X="9.75" Y="5.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Halls.Edit.Command">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Edit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Halls.Edit.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\Edit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Halls\Edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Halls.List">
+    <Position X="12.75" Y="5.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Halls.List.Query">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\List.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Halls.List.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\List.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Halls\List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Services.Halls.Turnkey">
+    <Position X="15.5" Y="5.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BLL.Services.Halls.Turnkey.Command">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\TurnKey.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="BLL.Services.Halls.Turnkey.Handler">
+        <TypeIdentifier>
+          <NewMemberFileName>Services\Halls\TurnKey.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Halls\TurnKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.DTOs.ActivityDto">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAAAAAAAAAABAAAAAAAACAA=</HashCode>
+      <FileName>DTOs\ActivityDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.DTOs.HallDto">
+    <Position X="17.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>DTOs\HallDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application.Core.MappingProfiles">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\MappingProfiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
